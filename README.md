@@ -1,4 +1,4 @@
-##AI Based Vehicle Access Control System
+# AI Based Vehicle Access Control System
 
 This is a project of an AI-based CCTV video analysis system with number plate 
 recognition and vehicle classification to improve access control in secure areas such 
