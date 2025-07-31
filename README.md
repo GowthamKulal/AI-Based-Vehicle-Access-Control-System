@@ -1,6 +1,6 @@
 ## Smart Surveillance System
 
-## Getting Started
+
 # First Run the Python Backend:
 1. cd API
 2. .\env\Scripts\activate
