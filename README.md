@@ -1,5 +1,15 @@
-## Smart Surveillance System
+##AI Based Vehicle Access Control System
 
+This is a project of an AI-based CCTV video analysis system with number plate 
+recognition and vehicle classification to improve access control in secure areas such 
+as parking facilities or gated communities. Based on leading computer vision 
+technologies and a Next.js-based web application, the system scans live or uploaded 
+video feeds to recognize and capture vehicle license plates and classify them as 
+authorized, visitors, or unauthorized (e.g., unapproved vehicles). Guests make access 
+requests from a friendly interface.  invoking a notification email to administrators. 
+Admins manually review and accept or reject requests from a web panel, with 
+approved guests receiving a confirmation email, making it a secure and effective 
+process. 
 
 # First Run the Python Backend:
 1. cd API
